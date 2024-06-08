@@ -35,6 +35,9 @@ header{
    color: #0e72cc;
 
 }
+.live{
+    text-transform: uppercase;
+}
 .box3{
   flex-basis: 20%;
   text-align: end;
